@@ -1,6 +1,3 @@
-Absolutely 😭🙌 Here’s a **professional but not overcomplicated README** you can paste directly into GitHub.
-
-````markdown
 # Course Management System
 
 A full-stack Course Management System built using React and JSON Server.  
